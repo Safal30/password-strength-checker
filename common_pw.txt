@@ -1,0 +1,12 @@
+# Very common passwords
+password
+123456
+12345678
+qwerty
+abc123
+password123
+admin
+letmein
+welcome
+# Admin related
+12345@Abcde
